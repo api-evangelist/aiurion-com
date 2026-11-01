@@ -1,4 +1,4 @@
-# aiurion-com
+# Aiurion
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,101 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-aiurion-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://aiurion.com/
+Aiurion provides same-day FDM 3D printing services in San Francisco, offering a range of high-performance materials such as carbon fiber reinforced nylon, PETG, ASA, and flexible TPU. Customers can upload CAD files in formats like STL, OBJ, STEP, and 3MF to receive instant quotes and rapid turnaround, typically within 24‑48 hours. The service includes on‑site support, engineering consultation, and a transparent pricing model with a $100 minimum per job. Aiurion operates from a secure, air‑gapped production facility, ensuring IP confidentiality for hardware startups, robotics teams, and engineers.
+
+**Areas:** 3D Printing · Manufacturing · Rapid Prototyping · San Francisco · Hardware
+
+## Aiurion on APIs.io
+
+Everything profiled for Aiurion is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aiurion-com/](https://apis.io/providers/aiurion-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Agentic 3D Printing API](https://apis.io/apis/aiurion-com/agentic-3d-printing-api/) — Public agent API for creating guest sessions, requesting free 3D print quotes, obtaining approval, creating Stripe Checkout URLs, and tracking model review…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aiurion Com Authentication](https://apis.io/security/aiurion-com/aiurion-com-authentication/)
+- [Aiurion Com Domain Security](https://apis.io/security/aiurion-com/aiurion-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Aiurion Com Scopes](https://apis.io/scopes/aiurion-com/aiurion-com-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aiurion.com/)
+- [Documentation](https://aiurion.com/about)
+- [Getting started](https://aiurion.com/about)
+- [API reference](https://aiurion.com/api/agent/v1/openapi.json)
+- [Support](https://aiurion.com/contact)
+- [Blog](https://aiurion.com/blog)
+- [Terms of service](https://aiurion.com/tos)
+- [Privacy policy](https://aiurion.com/privacy)
+- [GitHub](https://github.com/aiurion)
+
+## API Evangelist rating
+
+**Kin Score 24.1** — emerging · rubric 0.26.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 0.0 |
+| Contract governance | 30.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 35.7 |
+| Access clarity | 21.1 |
+
+**Agent readiness 6.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 28.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aiurion-com/](https://apis.io/providers/aiurion-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Aiurion: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aiurion-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
